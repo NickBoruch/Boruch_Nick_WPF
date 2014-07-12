@@ -154,8 +154,48 @@ var nope = "true";
 
 var unTrue = false;
 
+//Order of Operations
+//PEMDAS - Parenthesis, Exponents, Multiplication, Division, Add, Subtract
+// Please excuse my dear aunt sally
 
 
+//Find Quiz Averages
+var quiz1 =87;
+var quiz2 = 100;
+var quiz3=70;
+
+//Add them up divide by # of quizzes
+var average = (quiz1 + quiz2 + quiz3) /3;
+console.log(average);
 
 
+//Find the perimeter of a rectangle
+// 2* length + 2*height
 
+//Create variables for length and height
+var lengthRect = 7;
+var heightRect = 6;
+
+//Create variable for perimeter
+var perimeterRect = 2*lengthRect + 2*heightRect ;
+
+console.log("The Perimeter of this rectangle is "+perimeterRect+".");
+console.log("The Perimeter of a rectangle with a length of"+lengthRect+" and a height of "+heightRect+" equals "+perimeterRect+".");
+
+//Concatenation - combining text strings!
+
+var firstName = "Kermit";
+var lastName = "The Frog";
+
+//Concatenate first and last name into whole names
+var wholeName = firstName +" "+ lastName;
+console.log (wholeName);
+
+
+//Concatenating weirdness!
+var d = "6";
+var e = 7;
+
+var combine = d+e;
+
+console.log(combine);
