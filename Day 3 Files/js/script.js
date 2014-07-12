@@ -126,4 +126,23 @@ a/=4;   a = a/4;
 */
 
 
+//String - TEXT!
+// " is used to find the begining and end of a string"
+// Needs to distinguish between variable names and just text
+
+var kermit = "Light green";
+var frogName = "kermit";
+
+//Double or single??  MUST MATCH!!!!
+//Escape character \ backslash in front of the escaped character
+
+// Can also do a new line inside of a text string - \n - new line character
+
+var phrase = 'I don\'t know.\nDo you?';
+
+
+console.log(phrase);
+
+
+
 
