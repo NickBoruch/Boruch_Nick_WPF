@@ -58,6 +58,72 @@ b= a+3;
 console.log(b);
 console.log(a);
 
+//Simple Math
+//Find your age
+
+//Create/declare a variable for year born
+var yearBorn = 1992;
+
+//age current year subtract year born
+//Create age variable
+
+var age = 2014-yearBorn;
+
+console.log(age);
+
+
+//Talk about math
+//Basin Math Operators
+// +, -, * , /
+
+//Find the area of a triangle
+// base * height / 2
+
+//Create 2 variable one for base and one for height
+var base = 4;
+var height = 5;
+
+//Create a variable for area of triangle
+var areaOfTriangle = base * height / 2;
+console.log(areaOfTriangle);
+
+//Modulo - %
+//Gives you the remainder
+
+//var remainder = 32/10;
+var remainder =32%10;
+console.log(remainder);
+
+
+//Find if odd or even
+var evenOrOdd= 67%2;
+console.log (evenOrOdd);
+
+//Assignment Operators
+
+/*
+=Assignment - "is"
+
+++ - add one to variable
+a = a+1
+a++;
+
+-- subtracting one
+a-- is the same as a = a-1;
+
++= adds the number after the equals to the variable
+a +=6 is the same as a = a+6;
+
+-= subtracts the number
+a -=4; same as a = a-4;
+
+*= multiply by
+a *=3; a = a*3;
+
+/= divide by
+a/=4;   a = a/4;
+
+*/
 
 
 
