@@ -9,14 +9,14 @@ Personal Expressions
 //alert("Testing 1,2,3");
 
 
-// How Much I Spend on iTunes each year
+// How Much I Spend on iTunes each year? I spend $10 a week on iTunes
 
 var userInput= prompt("How much money do you spend on iTunes each week? ");
 console.log(userInput);
 
-var userInput= prompt("How Much money do you spend on iTunes each Month? ");
-console.log (userInput);
+var userInput= Number (userInput)* 4;
+console.log ("You Spend " +userInput+" dollars a month on iTunes. " );
 
-var userInput= prompt("How Much Money you spend each year on iTunes? ");
-console.log(userInput);
+var userInput= Number (userInput)* 52;
+console.log(" You Spend " +userInput+ " dollars a year on iTunes. ");
 
