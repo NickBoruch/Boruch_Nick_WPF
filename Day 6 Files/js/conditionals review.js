@@ -53,3 +53,21 @@ var monkeyActualName= prompt("What is your monkey's name?") ;
 
  console.log (monkeyActualName);
 
+
+// Ternary
+var x = 6
+
+if (x>5){
+console.log(" Your number is greater than 5.")
+} else {
+    console.log ("Your number is 5 or less.");
+}
+
+//Convert this if statement into a ternary
+ //(conditional to test) ? if true: if false ;
+
+(x>5) ? console.log(" Your number is greater than 5.") : console.log ("Your number is 5 or less.");
+//or
+var results = (x>5) ? " Your number is greater than 5." : "Your number is 5 or less.";
+ console.log (results);
+
