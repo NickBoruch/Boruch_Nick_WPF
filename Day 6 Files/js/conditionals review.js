@@ -35,7 +35,7 @@ var monkeyName = "yes";
  if(animal === "dog" || animal === "Dog" ){
 
 console.log("Your dog is named Rover...Bark!");
-
+3
 }else if(animal === "cat" || animal === "Cat"){
 console.log("Your cat is named Whiskers!");
 
