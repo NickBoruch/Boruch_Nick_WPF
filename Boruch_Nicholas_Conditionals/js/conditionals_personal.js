@@ -8,7 +8,6 @@ Conditionals Personal
 
 //alert("Testing 1,2,3");
 
- // Ternary 
  var x = 10
 
  if (x>10){
