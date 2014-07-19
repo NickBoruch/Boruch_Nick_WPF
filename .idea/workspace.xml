@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da8713e7-2f3d-42fe-93a7-f63a1a608344" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/conditional wacky.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Industry/conditionals industry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditionals_Personal/conditionals_personal.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/js/conditional wacky.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/conditional wacky.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/js/conditional wacky.js" afterPath="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/js/conditional wacky.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Boruch_Nick_WPF.iws" />
@@ -28,21 +28,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="conditional wacky.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/conditional wacky.html">
+      <file leaf-file-name="conditional wacky.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/js/conditional wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25210086" vertical-offset="0" max-vertical-offset="595">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.2180937" vertical-offset="0" max-vertical-offset="619">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="conditional wacky.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/js/conditional wacky.js">
+      <file leaf-file-name="conditional wacky.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/js/conditional wacky.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -90,8 +90,10 @@
         <option value="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditionals_Industry/conditionals industry.js" />
         <option value="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Industry/conditional industry.html" />
         <option value="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Industry/conditionals industry.js" />
-        <option value="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/conditional wacky.html" />
         <option value="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/conditional wacky.js" />
+        <option value="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/conditional wacky.html" />
+        <option value="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/js/conditional wacky.html" />
+        <option value="$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/js/conditional wacky.js" />
       </list>
     </option>
   </component>
@@ -157,24 +159,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Boruch_Nicholas_Conditionals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Boruch_Nick_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Boruch_Nick_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Boruch_Nicholas_Conditionals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Conditional_Wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -518,18 +502,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/js/conditional wacky.js">
+    <entry file="file://$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/js/conditional wacky.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="619">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/conditional wacky.html">
+    <entry file="file://$PROJECT_DIR$/Boruch_Nicholas_Conditionals/Conditional_Wacky/js/conditional wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25210086" vertical-offset="0" max-vertical-offset="595">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.2180937" vertical-offset="0" max-vertical-offset="619">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
