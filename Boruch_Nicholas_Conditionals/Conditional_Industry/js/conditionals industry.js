@@ -9,7 +9,7 @@ Conditional Industry Part 2
 //alert("Testing 1,2,3");
 
 // Find out if the person is paying credit or debit
- 
+
 var credit= "Yes"
 
 
