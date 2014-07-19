@@ -14,21 +14,25 @@ Nesting if Statements
 
 // Variable for temperature
 
-var temp =80;
+var temp =90;
+var waterTemp = 78;
+
 
 if(temp>=85){
    console.log ("Let's go to the beach!")
+    //If the water is warm, then go swimming, if not then let's get a tan
+
+
+
+    if(waterTemp>=75){
+        console.log ("Let's go swimming!");
+    } else {
+        console.log("Let's get a tan!");
+    }
+
 } else{
     console.log ("Let's go to the movies!")
 }
 
 
-//If the water is warm, then go swimming, if not then let's get a tan
 
-var waterTemp = 78;
-
-if(waterTemp>=75){
-   console.log ("Let's go swimming!");
-} else {
-    console.log("Let's get a tan!");
-}
