@@ -16,7 +16,7 @@ Zombie Outbreak
 //Givens
 var numZombies = 1; //How many zombies do we have
 var numBites= 4; //Number of bites per zombie per day
-var days = 10; //Number of days the CDC wants to know
+var days = 8; //Number of days the CDC wants to know
 
 for(var i = 1; i<=days; i++){
 
