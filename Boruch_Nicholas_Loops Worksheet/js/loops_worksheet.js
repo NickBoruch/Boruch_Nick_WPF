@@ -16,7 +16,7 @@ var music = 1;
 
 while (music<500){
 
-  console.log ("Music Never Sleeps! It is what makes us dance! "+music);
+  console.log ("Music Never Sleeps!"+music);
     music++
 }
 console.log("Never give up on your dreams! \nYou can accomplish anything you set your mind too!"+music);
