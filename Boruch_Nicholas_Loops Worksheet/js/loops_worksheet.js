@@ -33,3 +33,34 @@ var i = 200
 
  }while (i<200);
 
+ //For Loops
+
+ for(var i=200; i<2000; i++){
+     console.log("I Spent "+i+" dollars on Gas over the past year.");
+
+ }
+
+//Validating Prompts Using While Loops
+
+//var = artists
+
+var artists = prompt("Please type in the name of a musician.");
+
+ if(artists===""){
+
+console.log ("You did not enter anything!!")
+     artists=prompt("You must name a musician! Please do not leave this blank!!");
+ }
+ if(isNaN(parseInt(artists))){
+     console.log ("Please name an artist");
+
+     artists= prompt("Please type in the name of a musician only!");
+ }
+
+ var musician = prompt("Please type in your favorite musician!");
+
+ while(musician==="" || isNaN(musician)){
+
+    musician = prompt("Please do not leave this blank.");
+ }
+ console.log (artists);
