@@ -72,4 +72,3 @@ var userInput = prompt("Let's convert your dogs human years to dog years\nType i
 
 //Throw the userInput into the function
 dogYears(userInput);
- 
