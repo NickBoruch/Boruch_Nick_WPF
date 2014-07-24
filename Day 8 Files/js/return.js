@@ -40,7 +40,7 @@ console.log("The area of your rectangle is "+results);
 function circleArea(r){
 
 //Calc Area
-    var area = 2*r* Math.PI
+    var area = 2*r* Math.PI;
 
     //Return the area
     return area;
