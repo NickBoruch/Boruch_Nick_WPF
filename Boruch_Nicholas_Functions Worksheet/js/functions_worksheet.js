@@ -15,9 +15,11 @@ function weight(w){
      return stings;
 
  }
- var timesStung = prompt("How many times was your dog stung?\nPlease enter a number only");
+ var timesStung = prompt("How many pounds is your dog?\nPlease enter a number only");
  var death = weight(timesStung);
- console.log(timesStung+" Is how many stings it would take till "+death+"  your dog dies!");
+ console.log( "after "+ death+  " stings your dog will die!");
+
+
 
 
 
