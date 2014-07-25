@@ -35,5 +35,5 @@ var results= calcAreaFunc(6,7);
  }
 
  //Function call the procedure
- calcAreaProc(5,9); 
+ calcAreaProc(5,9);
 
