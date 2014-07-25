@@ -8,19 +8,18 @@ Functions Worksheet
 
 //alert("Testing 1,2,3");
 
-//Circumference
+//How many times would it take a bee to kill my 54lb dog
 
-//C=2Math.PIr
-
- function circleCircumference(r){
-
-//Calc Area
-     var radius = 2*r* Math.PI;
-
-     //Return the area
-     return radius;
+function weight(w){
+     var stings =  8.666666667.toFixed(1) *w;
+     return stings;
 
  }
+ var timesStung = prompt("How many times was your dog stung?\nPlease enter a number only");
+ var death = weight(timesStung);
+ console.log(timesStung+" Is how many stings it would take till "+death+"  your dog dies!");
+
+
 
 
 
