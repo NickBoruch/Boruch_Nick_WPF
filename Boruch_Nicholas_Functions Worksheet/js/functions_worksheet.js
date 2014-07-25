@@ -19,7 +19,16 @@ function weight(w){
  var death = weight(timesStung);
  console.log( "after "+ death+  " stings your dog will die!");
 
+ // Calculate the Circumference of a circle
 
+ function circleCircumference(d){
+         var circumference=Math.PI*d;
+     return circumference
+
+ }
+var circle = prompt("Please type in a diameter! \nonly a number please!");
+var diameter =circleCircumference(circle);
+ console.log ("The diameter is "+circle+" and the Circumference is " +diameter.toFixed(2));
 
 
 
