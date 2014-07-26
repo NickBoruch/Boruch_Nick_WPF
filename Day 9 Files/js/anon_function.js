@@ -16,7 +16,7 @@ Anonymous Function
 
  THIS WILL NOT WORK!! BECAUSE THE BROWSER CANNOT see the function until after initialized
 
- 
+
 //Function call to the anon function
 var anonReults2 = triAreaAnon(2,9);
 console.log anonReults2

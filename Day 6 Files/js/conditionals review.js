@@ -55,7 +55,7 @@ var monkeyActualName= prompt("What is your monkey's name?") ;
 
 
 // Ternary
-var x = 6
+var x = 6;
 
 if (x>5){
 console.log(" Your number is greater than 5.")
