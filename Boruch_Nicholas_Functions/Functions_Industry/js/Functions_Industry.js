@@ -24,4 +24,12 @@ var totalTax = function (t,l) {
  console.log (total);
 
 
+ //Add an else if
 
+if(total=totalTax){
+   console.log("Then You are being overcharged!")
+}else if(tax!=total){
+    console.log("You are being charged fairly.")
+}else{
+console.log("There is an error!")
+}
