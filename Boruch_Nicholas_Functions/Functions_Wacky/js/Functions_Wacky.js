@@ -25,4 +25,6 @@ Functions:Wacky
 
  console.log(totalAlbums);
 
+alert("You have lost some important Music!!...You should try to replace the albums you lost!!");
 
+ 
