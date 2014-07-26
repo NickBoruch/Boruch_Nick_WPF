@@ -27,4 +27,4 @@ Functions:Wacky
 
 alert("You have lost some important Music!!...You should try to replace the albums you lost!!");
 
- 
+
