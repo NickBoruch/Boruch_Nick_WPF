@@ -26,6 +26,7 @@ var total = (xboxorPlaystation(399,499));
  console.log (total);
 
  //Creating a Ternary
+ //t=total
 
 var t= 898;
  if(t>900){
