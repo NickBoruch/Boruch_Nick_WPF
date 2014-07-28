@@ -21,7 +21,7 @@ Functions:Wacky
 
 
 
- var totalAlbums= Albums(55,155,15).toFixed(0);
+ var totalAlbums= Albums(55,155,15);Math.round(1);
 
  console.log(totalAlbums);
 
