@@ -15,7 +15,7 @@ function randomDie(){
 
     //Calculate a random integer from 1-6.
 
-    var die= Math.round( Math.random(6)*(1) + 1);
+    var die= Math.round( Math.random (6)*(1) + 1);
 
     //return the die #
     return die;
