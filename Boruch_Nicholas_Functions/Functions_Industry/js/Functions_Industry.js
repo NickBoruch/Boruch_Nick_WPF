@@ -12,6 +12,7 @@ Functions:Industry
 
 //Solving how much tax should be added to the total charges for your work
 //Setting the variables for the function to t=tax and l=labor
+//This example is not east to understand I just was making a example just trying to use different type of math
 
 var totalTax = function (t,l) {
 
@@ -26,9 +27,9 @@ var totalTax = function (t,l) {
 
  //Add an else if
 
-if(total=totalTax){
+if(total==totalTax){
    console.log("Then You are being overcharged!")
-}else if(tax!=total){
+}else if(totalTax() !=total){
     console.log("You are being charged fairly.")
 }else{
 console.log("There is an error!")
