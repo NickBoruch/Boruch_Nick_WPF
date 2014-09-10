@@ -54,7 +54,7 @@ var total= weekOne+weekTwo+weekThree+weekFour+weekFive;
 
 //Get the average
 
-var average= (weekOne+weekTwo+weekThree+weekFour+weekFive)/5;
+var average= (total)/5;
 
 //console.log out average
 
