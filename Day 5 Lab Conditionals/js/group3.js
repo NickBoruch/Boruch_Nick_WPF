@@ -9,7 +9,7 @@ Conditionals Worksheet
 
  var time = prompt("What time does your movie start??");
 
- if(time === "3pm" || time === "4pm" || time === "5pm"){
+ if(time >=3 <=5){
 
      alert("The ticket price is $7.00");
      console.log("The ticket price is $7.00");

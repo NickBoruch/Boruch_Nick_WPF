@@ -18,7 +18,7 @@ Conditionals Worksheet
      " C = Celsius | F = Fahrenheit");
 
 
- if(converter == "C"){
+ if(converter === "C"||converter==="c"){
 
      var celsius = (Number(temperature) - 32) * 5 / 9;
 
@@ -28,7 +28,7 @@ Conditionals Worksheet
  }
 
 
- if(converter == "F") {
+ if(converter === "F"||converter==="f") {
 
      var farenheight = Number(temperature) * 9 / 5 + 32;
 
