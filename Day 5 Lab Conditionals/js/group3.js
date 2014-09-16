@@ -21,7 +21,7 @@ Conditionals Worksheet
 
  var customerAge = prompt("How old are you?");
 
- if(customerAge >= "55" || customerAge <= "10") {
+ if(customerAge >= 55 || customerAge <= 10) {
 
      alert("Congrats your movie is going to be discounted! your ticket price now is $7.00!");
      console.log("Congrats your movie is going to be discounted! your ticket price now is $7.00!");
